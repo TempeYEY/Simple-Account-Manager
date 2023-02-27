@@ -16,7 +16,8 @@ All datas are saved in a .csv<br>
 • ...<br>
 <br>
 <br>
-<br>
-<br>
+<b>Installation:</b><br>
+Just open your Console and direct to your folderpath. Then type <b>pip install -r requirements.txt</b><br>
+You can simply run the code by <b>py main.py</b><br><br>
 <br>
 feel free to contact me for any suggestions bla bla bla
