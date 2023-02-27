@@ -1,5 +1,5 @@
 # Simple-Account-Manager<br>
-<img src="https://i.imgur.com/XjU7lpv.png" />
+<img src="https://i.imgur.com/NTFlyrc.png" />
 
 This is just a simple account manager written in python.<br>
 <br>
