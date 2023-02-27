@@ -24,3 +24,4 @@ Then type <b>pip install -r requirements.txt</b><br>
 You can simply run the code by <b>py main.py</b> (python3.10 or higher is recommended)<br>
 <br>
 feel free to contact me for any suggestions bla bla bla
+
