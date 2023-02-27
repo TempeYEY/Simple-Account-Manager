@@ -19,3 +19,4 @@ All datas are saved in a .csv<br>
 <br>
 <br>
 <br>
+feel free to contact me for any suggestions bla bla bla
